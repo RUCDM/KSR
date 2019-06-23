@@ -17,3 +17,7 @@ For RS data, we use four datasets.
 ### Pre-training Process
 1. Data format preprocessing. 
 2. Pre-train the data and derive the embedding of items and users, based on the project of qmf (https://github.com/quora/qmf).
+
+
+## Before running the project
+Please download the related data from https://drive.google.com/file/d/1rLKvMpUm9PUkGz0-0Omvabk-ABS6eLX2/view?usp=sharing
