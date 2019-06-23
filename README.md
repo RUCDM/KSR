@@ -10,5 +10,5 @@ We use the Theano version '0.9.0'. The code was tested with various numpy and pa
 
 For convenient, you can use virtualenv together with the [requirement](https://github.com/mquad/hgru4rec/blob/master/requirements.txt) to set up a virtual environment before running the code.
 
-## Contact with us
+## Contact us
 If you have any question, please contact Jin Huang (betsyj.huang@gmail.com & note [question for KSR] in mail title).
