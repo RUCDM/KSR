@@ -13,6 +13,8 @@ Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks.
 This code is based on [GRU4Rec](https://github.com/hidasib/GRU4Rec).
 For now, we just have theano version code.
 
+A PyTorch re-implementation of KSR is integrated into Recbole [here](https://recbole.io/docs/user_guide/model/sequential/ksr.html).
+
 ## Requirements
 
 - Python 2.7
